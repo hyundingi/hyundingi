@@ -1,16 +1,8 @@
-- 👋 안녕하세요, 백엔드 개발자 배현지 입니다.
-- 👀 2024. 09 ~ 2025. 03 6개월간의 학습 내용과 이후 추가 학습 내용이 담겨있습니다. 
-- 🌱 학습 내용은 HTML, CSS, JavaScript, jQuery, Ajax, Python, Django, Java, Spring Boot, JSP, Jpa, Mybatis 등 입니다.
+![reversal](https://capsule-render.vercel.app/api?type=venom&text=Hi%20I'm%20Hyeon%20Ji&fontAlign=30&fontSize=30&&descAlign=60&descAlignY=50&theme=venom)
+# 코드로 나만의 세계를 만들어가는 개발자 배현지 입니다 👋
 
 **- 🌱 첫번째 프로젝트 (가족 공유 일기장)는 project_django에서 확인할 수 있습니다.**
 
 **- 🌱 두번째 프로젝트 (아이돌 육성 게임)는 project_weeg에서 확인할 수 있습니다.**
-- 💞️ 현재 java 기반 spring 프레임워크를 활용하여 view 단에 react를 적용한 프로젝트를 진행중입니다.
-<!--
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-hyundingi/hyundingi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
