@@ -1,0 +1,17 @@
+name: Latest Blog Post Workflow
+on:
+  schedule:
+    # 매일 정각에 자동으로 업데이트 (UTC 기준)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동 실행 버튼 활성화
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://api.velog.io/rss/@hyunding" # 여기에 본인 벨로그 ID 입력
