@@ -26,11 +26,11 @@ jobs:
           # 메인 브랜치로 전환
           git checkout main
           
-          # draft 브랜치에 있는 README.md 파일만 쏙 빼서 가져오기
-          git checkout draft -- README.md
+          # README.md와 워크플로우 폴더 전체를 draft 브랜치에서 통째로 땡겨옵니다.
+          git checkout draft -- README.md .github/workflows/
           
           # 변경 사항이 있으면 스테이징 및 커밋/푸시
-          git add README.md
+          git add README.md .github/workflows/
           if git diff --cached --quiet; then
             echo "변경 사항이 없습니다."
           else
