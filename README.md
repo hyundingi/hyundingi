@@ -112,8 +112,10 @@
     <td width="60%" valign="top">
       <h3>✍️ Latest Blog Posts (Velog)</h3>
       <br>
+      <ul>
       <!-- BLOG-POST-LIST:START -->
       <!-- BLOG-POST-LIST:END -->
+      </ul>
     </td>
     <td width="40%" valign="top" align="center">
       <h3>💻 Algorithm </h3>
