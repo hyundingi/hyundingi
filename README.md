@@ -113,8 +113,7 @@
       <h3>✍️ Latest Blog Posts (Velog)</h3>
       <br>
       <ul>
-      <!-- BLOG-POST-LIST:START -->
-      <!-- BLOG-POST-LIST:END -->
+      <!-- BLOG-POST-LIST:START --><li><a href='https://velog.io/@hyunding/Spring-Boot-Strategy-Factory-Pattern-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0'>[Spring Boot] Strategy + Factory Pattern 구현하기</a></li><li><a href='https://velog.io/@hyunding/Frontend-React-TS-Vue-%EB%B0%96%EC%97%90-%EB%AA%A8%EB%A5%B4%EB%8A%94%EB%8D%B0%EC%9A%94'>[Frontend] React? TS? Vue 밖에 모르는데요?</a></li><li><a href='https://velog.io/@hyunding/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%9E%91%EC%8B%AC%ED%81%B0%EC%9D%BC-2%EC%9D%BC%EC%B0%A8-%EC%8A%A4%ED%83%9D%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%ED%81%90-%EA%B5%AC%ED%98%84'>[알고리즘 챌린지] 작심큰일 2일차 - 스택을 사용하여 큐 구현</a></li><li><a href='https://velog.io/@hyunding/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%9E%91%EC%8B%AC%ED%81%B0%EC%9D%BC-2%EC%9D%BC%EC%B0%A8-%EB%B0%B1%EC%A4%8010820-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B6%84%EC%84%9D'>[알고리즘 챌린지] 작심큰일 2일차 - 백준/10820 문자열 분석</a></li><li><a href='https://velog.io/@hyunding/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%9E%91%EC%8B%AC%ED%81%B0%EC%9D%BC-1%EC%9D%BC%EC%B0%A8-%EB%B0%B1%EC%A4%801032-%EB%AA%85%EB%A0%B9-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8'>[알고리즘 챌린지] 작심큰일 1일차 - 백준/1032 명령 프롬프트</a></li><!-- BLOG-POST-LIST:END -->
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
